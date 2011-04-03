@@ -1,1 +1,1 @@
-Two small RUBY programs using the Wordnik API. thesaurus.rb gets a list of synonyms, and antonym.rb gets a list of antonyms when available (which isn't often with Wordnik).
+Two small Ruby programs using the Wordnik API. thesaurus.rb gets a list of synonyms, and antonym.rb gets a list of antonyms when available (which isn't often with Wordnik).
